@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<ss:spacestation
+    xmlns:ss="hhtp://codeinvestigator.com/spacestation.xsd"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="hhtp://codeinvestigator.com/spacestation.xsd spacestationDefinition.xsd"
+
+
+>
+    <captain> Colin</captain>
+    <price currency ="euro">200.00</price>
+    <spaceships>
+        <length>long</length>
+        <crew>10</crew>
+        <id>1</id>
+        <color>red</color>
+    </spaceships>
+    <spaceships>
+        <length>short</length>
+        <crew>3</crew>
+        <id>2</id>
+        <color>blue</color>
+    </spaceships>
+    <captain>Colin</captain>
+</ss:spacestation>
